@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm David Membreño</h1>
 
-<a target="_blank" align="center">
 <h3 align="right" style="margin-left: 60px;">All we need is hate ‎ ‎ ‎ ‎ ‎ </h3>
-  <img align="right" top="500" height="190" alt="Image" src="https://i.pinimg.com/736x/f2/41/cc/f241cc6705fe4ff494f648f99a9fa8c0.jpg">
-</a>
+<img align="right" alt="Coding" width="190" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://i.pinimg.com/736x/f2/41/cc/f241cc6705fe4ff494f648f99a9fa8c0.jpg" />
 
-- 🌱 I’m currently learning <strong>WEB Development Full-Stack</strong>.
 
-- 🎓 I’m a student of Systems Engineering.
 
-- 🤝 🚀 I’m on my way to deepening my knowledge in backend and all the technologies it encompasses.
-
+<ul>
+  <li>🎓 I’m a student of Systems Engineering.</li>
+  <br>
+  <li>🌱 I’m currently learning <strong>WEB Development Full-Stack.</strong></li>
+  <br>
+  <li>🚀 I’m on my way to deepening my knowledge in backend and all the technologies it encompasses.</li>
 
 </ul>
 <br><br><br><br>
