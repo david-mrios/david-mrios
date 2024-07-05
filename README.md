@@ -1,11 +1,4 @@
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm David Membreño</h1></summary>
-  </ul>
-</div>
-
+<h1 align="center">Hi 👋, I'm David Membreño</h1>
 
 <!--Intro start-->
 - 🎓 I’m a student of Systems Engineering.
