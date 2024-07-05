@@ -17,26 +17,18 @@
   <ul align="right">
     <summary><h1 style="display: inline-block">All we need is hate ‎ ‎ ‎ ‎ ‎ ‎</h1></summary>
   </ul>
-</div>  <img align="right" top="500"  width="300" alt="GIF" src="https://i.pinimg.com/736x/f2/41/cc/f241cc6705fe4ff494f648f99a9fa8c0.jpg">
+</div>  <img align="right" top="500"  width="350" alt="GIF" src="https://i.pinimg.com/736x/f2/41/cc/f241cc6705fe4ff494f648f99a9fa8c0.jpg">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🎓 I’m a student of Systems Engineering.
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently learning <strong>WEB Development Full-Stack</strong>.
 
-- 🤝 I’m available for freelancing.
+- 🚀 I’m on my way to deepening my knowledge in backend and all the technologies it encompasses.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
-<br><br>
+<br><br><br><br><br><br><br><br><br>
+
 <h1 align="center">Known Techs 🛠️</h1>
 
 <!-- Tech stack icons -->
