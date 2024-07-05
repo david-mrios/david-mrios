@@ -1,12 +1,25 @@
 <h1 align="center">Hi 👋, I'm David Membreño</h1>
 
 <!--Intro start-->
-- 🎓 I’m a student of Systems Engineering.
-- 🌱 I’m currently learning WEB Development Full-Stack
-- 🚀 I’m on my way to deepening my knowledge in backend and all the technologies it encompasses.
+<table>
+  <tr>
+    <td>
+      <ul>
+      <li>🎓 I’m a student of Systems Engineering.<br></li>
+      <li>🌱 I’m currently learning WEB Development Full-Stack.<br></li>
+      <li> 🚀 I’m on my way to deepening my knowledge in backend and all the technologies it encompasses.<br><br></li>
+      </ul>
+    </td>
+    <td>
+  <h3 align="center">All we need is Hate</h3>
+  <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9ecd423eb4eda6a05f5f991097d01abb.jpg#9ecd423eb4eda6a05f5f991097d01abb" alt="Image" width="250" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+</td>
+
+  </tr>
+</table>
 <!--Intro end-->
 
-<h1 align="center">Known Technologies 👨🏻‍💻 </h1>
+<h1 align="center">Known Techs  🛠️ </h1>
 
 <!--tech stack icons-->
 <p align="center">
