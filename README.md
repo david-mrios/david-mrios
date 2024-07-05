@@ -20,11 +20,12 @@
 <!-- Connect with me -->
 <h1 align="center">Here I am🤝</h1>
 <!-- icons and links -->
-<p style="text-align: center;">
-  <a href="https://www.instagram.com/david.mr00s/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram&perline=12&" />
   </a>
 </p>
+<br>
 
 
 <p align="center">
