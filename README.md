@@ -17,7 +17,7 @@
   <ul align="right">
     <summary><h2 style="display: inline-block">All we need is hate  ‎ ‎ ‎‎</h2></summary>
   </ul>
-</div>  <img align="right" top="500"  width="230" alt="image" width="190" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://i.pinimg.com/736x/f2/41/cc/f241cc6705fe4ff494f648f99a9fa8c0.jpg">
+</div>  <img align="right" top="500"  width="230" alt="image" width="190" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="img/vida.png">
 </a>
 
 - 🎓 I’m a student of Systems Engineering.
