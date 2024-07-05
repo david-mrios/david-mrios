@@ -12,8 +12,12 @@
 
 
 <a target="_blank" align="center">
-<h1 align="right" style="font-size: 2em;">All we need is hate ‎ ‎ ‎ ‎ ‎ </h1>
-  <img align="right" top="500"  width="350" alt="GIF" src="https://i.pinimg.com/736x/f2/41/cc/f241cc6705fe4ff494f648f99a9fa8c0.jpg">
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="right">
+    <summary><h1 style="display: inline-block">All we need is hate ‎ ‎ ‎ ‎ ‎ ‎</h1></summary>
+  </ul>
+</div>  <img align="right" top="500"  width="350" alt="GIF" src="https://i.pinimg.com/736x/f2/41/cc/f241cc6705fe4ff494f648f99a9fa8c0.jpg">
 </a>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
