@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Membreño</h1>
 
-<!-- <h3 align="right" style="margin-left: 60px;">All we need is hate ‎ ‎ ‎ ‎ ‎ </h3>
-<img align="right" alt="Coding" width="190" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://i.pinimg.com/736x/f2/41/cc/f241cc6705fe4ff494f648f99a9fa8c0.jpg" />
-
-  <li>🎓 I’m a student of Systems Engineering.</li>
-  <br>
-  <li>🌱 I’m currently learning <strong>WEB Development Full-Stack.</strong></li>
-  <br>
-  <li>🚀 I’m on my way to deepening my knowledge in backend and all the technologies it encompasses.</li>
-<br><br><br><br> -->
-
 
 <a target="_blank" align="center">
 <!--h1 without bottom border-->
@@ -38,7 +28,7 @@
   </a>
 </p>
 
-<h3 align="center"><strong>( I just have them installed ) </strong></h3>
+<h3 align="center"><strong>Actually I only have them installed.</strong></h3>
 
 <br>
 
