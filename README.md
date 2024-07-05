@@ -3,11 +3,14 @@
 <h3 align="right" style="margin-left: 60px;">All we need is hate ‎ ‎ ‎ ‎ ‎ </h3>
 <img align="right" alt="Coding" width="190" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://lastfm.freetls.fastly.net/i/u/770x0/9ecd423eb4eda6a05f5f991097d01abb.jpg#9ecd423eb4eda6a05f5f991097d01abb" />
 
+<ul>
   <li>🎓 I’m a student of Systems Engineering.</li>
   <br>
   <li>🌱 I’m currently learning <strong>WEB Development Full-Stack.</strong></li>
   <br>
   <li>🚀 I’m on my way to deepening my knowledge in backend and all the technologies it encompasses.</li>
+
+</ul>
 <br><br><br><br>
 
 <h1 align="center">Known Techs 🛠️</h1>
