@@ -15,9 +15,9 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="right">
-    <summary><h1 style="display: inline-block">All we need is hate ‎ ‎ ‎ ‎ ‎ ‎</h1></summary>
+    <summary><h2 style="display: inline-block">All we need is hate  ‎ ‎</h2></summary>
   </ul>
-</div>  <img align="right" top="500"  width="350" alt="GIF" src="https://i.pinimg.com/736x/f2/41/cc/f241cc6705fe4ff494f648f99a9fa8c0.jpg">
+</div>  <img align="right" top="500"  width="190" alt="GIF" src="https://i.pinimg.com/736x/f2/41/cc/f241cc6705fe4ff494f648f99a9fa8c0.jpg">
 </a>
 
 - 🎓 I’m a student of Systems Engineering.
@@ -27,7 +27,7 @@
 - 🚀 I’m on my way to deepening my knowledge in backend and all the technologies it encompasses.
 
 <br/>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <h1 align="center">Known Techs 🛠️</h1>
 
