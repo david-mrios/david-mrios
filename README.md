@@ -38,7 +38,7 @@
   </a>
 </p>
 
-<h3 align="center"><strong>( Nada más las tengo instaladas ) </strong></h3>
+<h3 align="center"><strong>( I just have them installed ) </strong></h3>
 
 <br>
 
