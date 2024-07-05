@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Membreño</h1>
 
-<h3 align="right" style="margin-left: 60px;">All we need is hate ‎ ‎ ‎ ‎ ‎ </h3>
+<!-- <h3 align="right" style="margin-left: 60px;">All we need is hate ‎ ‎ ‎ ‎ ‎ </h3>
 <img align="right" alt="Coding" width="190" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://i.pinimg.com/736x/f2/41/cc/f241cc6705fe4ff494f648f99a9fa8c0.jpg" />
 
   <li>🎓 I’m a student of Systems Engineering.</li>
@@ -8,7 +8,38 @@
   <li>🌱 I’m currently learning <strong>WEB Development Full-Stack.</strong></li>
   <br>
   <li>🚀 I’m on my way to deepening my knowledge in backend and all the technologies it encompasses.</li>
-<br><br><br><br>
+<br><br><br><br> -->
+
+
+<a target="_blank" align="center">
+<h3 align="right" style="font-size: 2em;">All we need is hate ‎ ‎ ‎ ‎ ‎ </h3>
+  <img align="right" top="500"  width="350" alt="GIF" src="https://i.pinimg.com/736x/f2/41/cc/f241cc6705fe4ff494f648f99a9fa8c0.jpg">
+</a>
+
+- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+
+- 🌱 I’m currently Working on Mobile App(React-Native)
+
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+
+- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+
+- 💬 Ask me about **Reactjs & React-Native**
+
+- 📫 How to reach me **saurabhchavan052@gmail.com**
+
+- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+<br/>
+
+
+
+
+
+
+
+
 
 <h1 align="center">Known Techs 🛠️</h1>
 
