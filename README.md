@@ -37,7 +37,11 @@
     <img align="center" src="https://skillicons.dev/icons?i=cs,java,php,py,dotnet,css,html,js,nodejs,mysql,git,github,docker,postman,vscode,fastapi,linux&perline=12" />
   </a>
 </p>
+
+<h3 align="center"><strong>( Nada más las tengo instaladas ) </strong></h3>
+
 <br>
+
 
 <!-- Connect with me -->
 <h1 align="center">Here I am 🤝</h1>
