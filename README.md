@@ -15,7 +15,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="right">
-    <summary><h2 style="display: inline-block">All we need is hate  ‎ ‎ ‎‎</h2></summary>
+    <summary><h2 style="display: inline-block">All we need is hate  ‎‎ ‎‎ ‎ ‎ ‎</h2></summary>
   </ul>
 </div>  <img align="right" top="500"  width="230" alt="image" width="190" src="img/vida.png">
 </a>
