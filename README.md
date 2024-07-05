@@ -12,7 +12,7 @@
 
 
 <a target="_blank" align="center">
-<h3 align="right" style="font-size: 2em;">All we need is hate ‎ ‎ ‎ ‎ ‎ </h3>
+<h1 align="right" style="font-size: 2em;">All we need is hate ‎ ‎ ‎ ‎ ‎ </h1>
   <img align="right" top="500"  width="350" alt="GIF" src="https://i.pinimg.com/736x/f2/41/cc/f241cc6705fe4ff494f648f99a9fa8c0.jpg">
 </a>
 
