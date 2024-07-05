@@ -10,7 +10,7 @@
 
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img align="center" src="https://skillicons.dev/icons?i=cs,java,php,py,dotnet,css,html,js,nodejs,mysql,git,github,docker,postman,vscode,fastapi,linux&perline=12&" />
   </a>
 </p>
@@ -21,7 +21,7 @@
 <h1 align="center">Here I am🤝</h1>
 <!-- icons and links -->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.instagram.com/david.mr00s/">
     <img align="center" src="https://skillicons.dev/icons?i=instagram&perline=12&" />
   </a>
 </p>
