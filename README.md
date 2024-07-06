@@ -27,7 +27,7 @@
     <img align="center" src="https://skillicons.dev/icons?i=cs,java,php,py,dotnet,css,html,js,nodejs,mysql,git,github,docker,postman,vscode,fastapi,linux&perline=12" />
   </a>
 </p>
-
+<h3 align="center"><strong>Bueee</strong></h3>
 <h3 align="center"><strong>Actually I only have them installed.</strong></h3>
 
 <br>
